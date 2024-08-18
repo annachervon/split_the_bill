@@ -1,3 +1,5 @@
+Check the project by visiting the following link: https://splitbillapp.netlify.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
